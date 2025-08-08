@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=1&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=javascript%2Cjavascript%2Ceed49f%3Bpython%2Cpython%2C8aadf4%3Bgo%2Cgolang%2C91d7e3%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=OS+%26amp%3B+Devices&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=2&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=apple%2Capple%2Ccad3f5%3Bkalilinux%2Ckali+linux%2C7dc4e4%3Bubuntu%2Cubuntu%2Cf5a97f%3Bandroid%2Candroid%2Ca6da95%3B&line2=raspberrypi%2Craspberry+pi%2Ced8796%3Bxiaomi%2Cxiaomi%2Cf5a97f%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Fullstack&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=3&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=html5%2Chtml%2Cf5a97f%3Bcss3%2Ccss%2C7dc4e4%3Bexpress%2Cexpress.js%2Ccad3f5%3Bvue.js%2Cvue.js%2Ca6da95%3B&line2=nuxt.js%2Cnuxt.js%2C8bd5ca%3Breact%2Creact%2C7dc4e4%3Bnext.js%2Cnext.js%2Ccad3f5%3Btailwindcss%2Ctailwind+css%2C7dc4e4%3B&line3=socket.io%2Csocket.io%2Ccad3f5%3Bnode.js%2Cnode.js%2Ca6da95%3Bnpm%2Cnpm%2Ced8796%3Bmongodb%2Cmongodb%2Ca6da95%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Hosting&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=1&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=oracle%2Coracle%2Ced8796%3Bnginx%2Cnginx%2Ca6da95%3Bcloudflare%2Ccloudflare%2Cf5a97f%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=2&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=visualstudiocode%2Cvisual+studio+code%2C7dc4e4%3Bnotion%2Cnotion%2Ccad3f5%3Bgitlab%2Cgitlab%2Cf5a97f%3B&line2=github%2Cgithub%2Ccad3f5%3Bgit%2Cgit%2Ced8796%3Bdiscord%2Cdiscord%2C8aadf4%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cryptocurrencies&align=center&titleAlign=center&borderRadius=16&fontSize=20&lineHeight=8&lineCount=1&theme=catppuccin_macchiato&gap=32&width=560&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=bitcoin%2Cbitcoin%2Ceed49f%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2Ij4KCTx0aXRsZT54LXN2ZzwvdGl0bGU%2BCgk8c3R5bGU%2BCgkJLnMwIHsgZmlsbDogIzdkYzRlNCB9IAoJPC9zdHlsZT4KCTxwYXRoIGlkPSIxIiBjbGFzcz0iczAiIGQ9Im0xODguOSA2LjNjMy44LTUuOCAxMS41LTcuNCAxNy4zLTMuNiA1LjggMy43IDcuNCAxMS41IDMuNyAxNy4ybC0xNDkuMiAyMjkuOGMtMy44IDUuOC0xMS41IDcuNS0xNy4zIDMuNy01LjgtMy43LTcuNS0xMS41LTMuNy0xNy4zeiIvPgoJPHBhdGggaWQ9IjIiIGNsYXNzPSJzMCIgZD0ibTQ0LjcgMTkuOWMtMy44LTUuNy0yLjEtMTMuNSAzLjctMTcuMiA1LjgtMy44IDEzLjUtMi4yIDE3LjMgMy42bDE0OS4yIDIyOS44YzMuNyA1LjggMi4xIDEzLjYtMy43IDE3LjMtNS44IDMuOC0xMy41IDIuMS0xNy4zLTMuN3oiLz4KCTxwYXRoIGlkPSIzIiBjbGFzcz0iczAiIGQ9Im01MCAxNzAuNWMwLTYuOSA1LjYtMTIuNSAxMi41LTEyLjVoMTMwYzYuOSAwIDEyLjUgNS42IDEyLjUgMTIuNSAwIDYuOS01LjYgMTIuNS0xMi41IDEyLjVoLTEzMGMtNi45IDAtMTIuNS01LjYtMTIuNS0xMi41eiIvPgoJPHBhdGggaWQ9IjQiIGNsYXNzPSJzMCIgZD0ibTUwIDEyMS41YzAtNi45IDUuNi0xMi41IDEyLjUtMTIuNWgxMzBjNi45IDAgMTIuNSA1LjYgMTIuNSAxMi41IDAgNi45LTUuNiAxMi41LTEyLjUgMTIuNWgtMTMwYy02LjkgMC0xMi41LTUuNi0xMi41LTEyLjV6Ii8%2BCjwvc3ZnPg%3D%3D%2Cnano%2C%3Bmonero%2Cmonero%2Cf5a97f%3B" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MomboteQ&theme=catppuccin-macchiato&border_radius=16&border=6e738d&card_width=560" />
-  <img src="https://github-readme-stats.vercel.app/api?username=momboteq&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&border_radius=16&border_color=6e738d" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momboteq&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&border_radius=16&border_color=6e738d" />
-</p>
+<div align="center">
+
+### Hi, I'm MomboteQ 👋  
+A developer exploring crypto, cybersecurity and privacy 🛡️.<br/>
+19 years old, based in Poland 🇵🇱.
+
+</div>
+
+---
+- 🚀 Building my own crypto brand **Zenitria**  
+- 🛠️ Skilled in: `Python` `Golang` `JavaScript` `React` `Svelte` `Tailwind` `Docker`  
+- 📚 Learning: `DevOps` `CI/CD` `Cybersecurity`
+- 📫 Reach me: [momboteq@proton.me](mailto:momboteq@proton.me)  
+---
+
+
+
