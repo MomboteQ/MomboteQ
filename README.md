@@ -2,7 +2,7 @@
 
 ### Hi, I'm MomboteQ 👋  
 A developer exploring crypto, cybersecurity and privacy 🛡️<br/>
-19 years old, based in Poland 🇵🇱
+🎂 19 years old・Poland 🇵🇱
 
 </div>
 
