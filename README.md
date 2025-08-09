@@ -2,7 +2,7 @@
 
 ### Hi, I'm MomboteQ 👋  
 A developer exploring crypto, cybersecurity and privacy 🛡️<br/>
-🎂 19 years old ・ 🇵🇱 Poland
+🎂 19 yo ・ 🇵🇱 Poland ・ 💰 BTC & XMR
 
 </div>
 
@@ -17,7 +17,6 @@ A developer exploring crypto, cybersecurity and privacy 🛡️<br/>
   - **Frameworks:** `⚛️ React` `🔥 Svelte`
   - **Databases:** `🐘 PostgreSQL` `🍃 MongoDB`  
   - **Tools:** `🔗 Git` `🐳 Docker`  
-- 💰 Interested in: `💸 Bitcoin` `🔒 Monero`
 - 📚 Learning: `⚙️ DevOps` `🔄 CI/CD` `🛡️ Cybersecurity`
 - 📫 Reach me: [momboteq@proton.me](mailto:momboteq@proton.me)
 
